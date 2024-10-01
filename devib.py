@@ -1,0 +1,1 @@
+os.system('espeak -a 300 " Welcome,   to,  DEVI ,    Tools"')
